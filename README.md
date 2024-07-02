@@ -17,5 +17,12 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </div>
 </br>
+<h3 align="center">✨ Cloud Service ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+</div>
+</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihatetmat&show_icons=true&theme=dark)
