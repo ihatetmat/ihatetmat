@@ -36,6 +36,6 @@
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihatetmat&exclude_repo=dkssud8150.github.io&layout=compact" />
 
-[![kchk0628](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![kchk0628](http://mazassumnida.wtf/api/generate_badge?boj=kchk0628)](https://solved.ac/kchk0628)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihatetmat&show_icons=true&theme=dark)
