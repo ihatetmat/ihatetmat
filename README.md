@@ -17,11 +17,25 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </div>
 </br>
-<h3 align="center">✨ Cloud Service ✨</h3>
+<h3 align="center">✨ Server ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+</div>
+</br>
+<h3 align="center">✨ AI ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white">
+</div>
+</br>
+<h3 align="center">✨ Studying ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Nsight System-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/NVTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/Jetson Orin Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </div>
 </br>
 
