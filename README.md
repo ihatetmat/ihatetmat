@@ -34,10 +34,11 @@
   <img src="https://img.shields.io/badge/Jetson Orin Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </div>
 </br>
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihatetmat&exclude_repo=dkssud8150.github.io&layout=compact" />
   <a href="https://solved.ac/kchk0628">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=kchk0628" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=ihatetmat&show_icons=true&theme=dark" />
 </div>
+
