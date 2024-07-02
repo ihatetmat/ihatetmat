@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/NVTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
   <img src="https://img.shields.io/badge/Jetson Orin Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </div>
+</br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihatetmat&exclude_repo=dkssud8150.github.io&layout=compact" />
   <a href="https://solved.ac/kchk0628">
